@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Singh Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-salvador&label=Profile%20views&color=0e75b6&style=flat" alt="h-salvador" /> </p>
+
 - 🔭 I’m currently working on **Smart Face Recognition Robot**
 
 - 📫 How to reach me **abhinandanrana1016@gmail.com**
